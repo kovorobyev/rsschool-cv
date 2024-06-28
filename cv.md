@@ -25,7 +25,10 @@ Patenting skills:
 
 ### Code example
 ```
-<some code>
+function multiply(a, b){
+return a * b
+}
+
 ```
 
 ### Education
