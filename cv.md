@@ -32,7 +32,7 @@ return a * b
 ```
 
 ### Projects
-- ![current cv](https://kovorobyev.github.io/rsschool-cv/cv)
+- [current cv](https://kovorobyev.github.io/rsschool-cv/cv)
 
 ### Education
 **St. Petersburg State University**\
