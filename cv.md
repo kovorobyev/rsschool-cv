@@ -21,7 +21,7 @@ Photo/film creating:
 
 Patenting skills:
 - writing invention applications (biology, chemistry)
-- filing prosecuting invention applications in Russian and Eurasian Patent Offices
+- filing and prosecuting invention applications in Russian and Eurasian Patent Offices
 
 ### Code example
 ```
