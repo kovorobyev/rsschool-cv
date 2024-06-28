@@ -1,6 +1,5 @@
 # Konstantin Vorobyev
-
-## Junior Frontend Developer
+![](https://disk.yandex.ru/i/zUN7S4dzklrGbQ)
 
 ### Contacts
 **email:** kovorobyev@gmail.com\
@@ -12,10 +11,9 @@ I'm a developing front-end developer which is experienced in biology science, pa
 
 ### Skills
 IT:
-- html
-- css
-- javascript
-- git
+- HTML, CSS
+- Git
+- VS Code
 
 Photo/film creating:
 - Adobe Photoshop, Lightroom
