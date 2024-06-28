@@ -2,11 +2,11 @@
 
 ### Contacts
 **email:** kovorobyev@gmail.com\
-**telegram, discord:** kovorobyev
+**telegram, discord:** kovorobyev\
 **github:** https://github.com/kovorobyev/
 
 ### About
-I'm a developing frontend developer which is experienced in biology science, patenting inventions as well as photo and film making and retouching processes.
+I'm a developing front-end developer which is experienced in biology science, patenting inventions as well as photo and film making and retouching processes.
 
 ### Skills
 IT:
@@ -37,7 +37,7 @@ Biology faculty, Dept. of Microbiology, master's degree
 2022\
 Russian patent attorney (inventions)
 
-**RS Schools Course**\
+**RS School**\
 2024\
 JavaScript/Front-end. Stage 0 (in progress)
 
