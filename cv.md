@@ -1,5 +1,5 @@
 # Konstantin Vorobyev
-![](https://disk.yandex.ru/i/zUN7S4dzklrGbQ)
+![](https://github.com/kovorobyev/RStest/blob/77e8ffe533b892cb57e5898be0ef0e33e4c28f12/IMG_3901sm.jpg)
 
 ### Contacts
 **email:** kovorobyev@gmail.com\
