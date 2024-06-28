@@ -31,6 +31,9 @@ return a * b
 
 ```
 
+### Projects
+- ![current cv](https://kovorobyev.github.io/rsschool-cv/cv)
+
 ### Education
 **St. Petersburg State University**\
 2002-2008\
