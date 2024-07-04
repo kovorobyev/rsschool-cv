@@ -1,0 +1,22 @@
+h1 {
+    color:#37428d;
+}
+h2 {
+    color:#6f3e0a;
+}
+div {
+    margin: 20px;
+}
+.info {
+    border: 1px solid grey;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.skills-title {
+    font-weight: bold;
+}
+.code {
+    color: #0000009b;
+    background-color: rgb(235, 226, 198);
+    padding: 5px;
+}
