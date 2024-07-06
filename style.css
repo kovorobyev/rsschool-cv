@@ -1,22 +1,108 @@
-h1 {
-    color:#37428d;
+html {
+    scroll-behavior: smooth;
 }
-h2 {
-    color:#6f3e0a;
+header {
+    font: 14px "Inter", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    }
 }
-div {
-    margin: 20px;
+body {
+    font: 14px "Inter", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
-.info {
-    border: 1px solid grey;
+.container-head {
+    max-width: 860px;
+    margin: 0 auto;
+    display: table;
+}
+.photo {
+    display: table-cell;
+}
+.myphoto {
+    border-radius: 10px;
+}
+.mynamejob {
+    width: 100%;
+    display: table-cell;
+    vertical-align: top;
+    padding-left: 20px;
+}
+.name {
+    font-weight: bold;
+    color:#115c81;
+}
+.job {
+    color: #105047;
+    font-weight: bold;
+    font-size: 20px;
+}
+nav {
+    display: table-cell;
+    white-space: nowrap;
+    vertical-align: top;
+}
+.nav-list {
+    list-style: none;
+}
+a {
+    color: #18719a;
+    transition: color 0.3s;
+    text-decoration: none;
+}
+a:hover {
+    color: #3ca1d0;
+}
+body {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    display: table;
+}
+
+div.info {
+    border: 1px solid rgb(9, 57, 136);
+    border-radius: 10px;
     padding-left: 10px;
     padding-bottom: 10px;
+    margin: 20px;
+}
+.info-section {
+    color:#115c81;
+    font-variant: small-caps;
+    letter-spacing: 2px;
+}
+.ul-circle {
+    list-style-type: circle;
 }
 .skills-title {
     font-weight: bold;
 }
 .code {
     color: #0000009b;
-    background-color: rgb(235, 226, 198);
-    padding: 5px;
+    font-family: Arial, monospace;
 }
+.school-name {
+    color: #105047;
+    font-weight: bold;
+}
+.footer {
+    max-width: 860px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
